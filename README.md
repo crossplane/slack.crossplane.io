@@ -1,3 +1,3 @@
 # slack.crossplane.io
 
-Crossplane Slack workspace nvitation landing page. 
+Crossplane Slack workspace invitation landing page. 
