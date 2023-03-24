@@ -13,8 +13,9 @@ perform the redirect for us.
 ## Maintenance Notes
 
 This repository will need some ongoing maintenance to continue functioning.  We
-will be exploring a better long term solution, but for now this repo will serve
-our needs for self-service joining of our Slack workspace.
+will be exploring a [better long term
+solution](https://github.com/crossplane/crossplane/issues/3907), but for now
+this repo will serve our needs for self-service joining of our Slack workspace.
 
 Notes on maintaining this repo can be found below:
 
