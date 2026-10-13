@@ -1,5 +1,12 @@
 # slack.crossplane.io
 
+> [!IMPORTANT]
+> This repo is archived and no longer serves https://slack.crossplane.io. That
+> page is now an instance of
+> [slackin-extended](https://github.com/emedvedev/slackin-extended) running on
+> Heroku. See https://github.com/crossplane/crossplane/issues/3907 for details
+> and history.
+
 This repo contains a very simple landing page for Crossplane Slack workspace
 invitations. When visitors browse to https://slack.crossplane.io, they come to
 this page, which simply contains a static HTML page that redirects them to an
